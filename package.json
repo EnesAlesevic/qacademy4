@@ -1,0 +1,22 @@
+{
+  "name": "qacademy4",
+  "version": "1.0.0",
+  "description": "Mukijev readme  Harisov folder Elvisova krompirusa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnesAlesevic/qacademy4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EnesAlesevic/qacademy4/issues"
+  },
+  "homepage": "https://github.com/EnesAlesevic/qacademy4#readme",
+  "dependencies": {
+    "cypress": "^13.6.6"
+  }
+}
